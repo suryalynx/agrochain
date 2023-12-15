@@ -1,0 +1,19 @@
+{
+	"name": "blockchain-voting",
+	"version": "1.0.0",
+	"description": "Aplikasi Voting sederhana berbasis Ethereum",
+	"main": "index.js",
+	"scripts": {
+		"dev": "lite-server",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Kelompok 4",
+	"license": "ISC",
+	"dependencies": {
+		"@truffle/contract": "^4.6.31",
+		"lite-server": "^2.6.1",
+		"solc": "^0.6.0",
+		"truffle-contract": "^4.0.31",
+		"web3": "^4.3.0"
+	}
+}

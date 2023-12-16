@@ -1,13 +1,13 @@
 {
-	"name": "blockchain-voting",
+	"name": "SupplyChain-Agrobisnis",
 	"version": "1.0.0",
-	"description": "Aplikasi Voting sederhana berbasis Ethereum",
+	"description": "Aplikasi supplychain sederhana berbasis Ethereum",
 	"main": "index.js",
 	"scripts": {
 		"dev": "lite-server",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"author": "Kelompok 4",
+	"author": "Surya Herdianto Utomo",
 	"license": "ISC",
 	"dependencies": {
 		"@truffle/contract": "^4.6.31",
